@@ -1,0 +1,9 @@
+.search-btn {
+  display: flex;
+  justify-content: center;
+  
+}
+
+.user-input-area {
+  margin: 20px 0px;
+}
