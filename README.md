@@ -1,3 +1,6 @@
+# Introduction from @sumdemir
+In this part of the project, I coded using React and typescript. If you want to run the project, you will only see the design side. Since I am working locally and connecting to the database, the project will not work for you.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
